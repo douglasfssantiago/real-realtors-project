@@ -1,3 +1,16 @@
+![]()
+
+# Real Realtors
+
+First project developed as a student in the Introduction to Web Development 
+classes. The project is about a real estate website with 
+basic items such as Index, About and Contact page, focusing on functionality 
+and a professional design.
+
+Visit my project [here](https://douglasfssantiago.github.io/real-realtors-project/)
+
+
+
 ## About me
 
 Hi, I'm Douglas Santiago, currently studying Software Development 
@@ -17,5 +30,6 @@ I invite you to check out my initial projects as a student. Feel free to
 get in touch. I'm excited to discuss my qualifications and skills further 
 and to contribute to future projects.
 
-Visit my project [here](https://douglasfssantiago.github.io/real-realtors-project/) 
+
+
 
